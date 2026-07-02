@@ -1,4 +1,4 @@
-# Hi, I'm Sena
+·——···········# Hi, I'm Sena
 
 Python developer focused on data analytics, MLOps and AI automation.
 
