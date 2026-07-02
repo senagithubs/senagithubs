@@ -4,7 +4,7 @@ Python developer focused on data analytics, MLOps and AI automation.
 
 ## Featured projects
 
-**[spark-pipeline](https://github.com/Mlops-telecom-anomaly-drift-adaptation/spark-pipeline)** · MLOps: adaptive pipeline for telecom network traffic. Spark ETL, ADWIN concept-drift detection, sliding-window model retraining, Grafana + Prometheus monitoring.
+**[spark-pipeline](https://github.com/Mlops-telecom-anomaly-drift-adaptation/spark-pipeline)** · MLOps: adaptive pipeline for telecom network traffic. Spark ETL, ADWIN concept-drift detection, sliding-window model retraining, Grafana + Prometheus monitoring. Active project: the drift-adaptation stage is in final development.
 
 **[multi-agent-telegram-bot](https://github.com/senagithubs/multi-agent-telegram-bot)** · Multi-agent chatbot with confidence-based routing, LLM integration, Flask webhooks and conversation memory.
 
