@@ -16,4 +16,4 @@ Python developer focused on data analytics, MLOps and AI automation.
 
 ## Tech
 
-Python (pandas, PySpark, scikit-learn, SQLAlchemy, Flask) · SQL · MLflow · Docker · GitHub Actions · Grafana · C · C#
+Python (pandas, PySpark, scikit-learn, PyTorch, TensorFlow, SQLAlchemy, Flask) · SQL · MLflow · Kafka · Docker · GitHub Actions · Grafana · C · C#
